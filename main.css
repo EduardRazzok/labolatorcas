@@ -1,7 +1,7 @@
 ﻿body {
   margin: 0;
   padding: 0;
-  background-image: url("background.jpg");
+  background-image: url("images/background.jpg");
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
@@ -18,7 +18,7 @@
 }
 
 .ocean {
-  background-image: url("ocean-bg.jpg");
+  background-image: url("images/ocean-bg.jpg");
   background-size: cover;
   background-position: center;
   padding: 20px;
